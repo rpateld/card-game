@@ -1,6 +1,6 @@
-# My React card-game App
+# React card-game App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Click here to view [Card Game](https://rpateld.github.io/card-game/).
 
 ## About the App
 
